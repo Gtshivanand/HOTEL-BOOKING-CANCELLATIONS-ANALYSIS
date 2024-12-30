@@ -1,4 +1,5 @@
 # HOTEL BOOKING CANCELLATIONS ANALYSIS
+  Hotel Booking Cancellation Dashboard This project aims to analyze hotel booking data and create an interactive dashboard to visualize trends, insights, and factors influencing booking cancellations. The dashboard provides actionable insights for hotel management to optimize booking policies, minimize cancellations, and improve revenue.
 
 ## OBJECTIVE:
 The primary objective of this analysis is to gain insights and understand the factors contributing to hotel booking cancellations in order to develop strategies to reduce or mitigate the cancellation problem. This could involve improving guest experience, optimizing room allocation processes, adapting pricing and policies, or implementing targeted marketing and communication efforts to reduce cancellations and improve overall revenue and occupancy rates.
