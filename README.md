@@ -39,6 +39,25 @@ Based on the hotel booking cancellations dashboard, the key performance indicato
 * Proactively communicating with guests, addressing any concerns or issues promptly, and gathering feedback on their experiences can help hotels identify and address common pain points that may lead to cancellations. This can improve guest satisfaction and reduce the likelihood of cancellations.
 * While the analysis provides quantitative data, hotels should also collect and analyze qualitative data on the reasons behind cancellations. This can reveal deeper insights into guest behavior and help develop targeted solutions to address specific cancellation drivers.
 
+# Feedback and Suggestions:
+
+Thank you for visiting my repository! If you have any questions or feedback, feel free to reach out.
+
+I’d love to hear your thoughts, feedback, and suggestions! Feel free to connect with me:
+
+ LinkedIn: [Shivanand Nashi](https://www.linkedin.com/in/shivanand-s-nashi-79579821a)
+ 
+ Email: shivanandnashi97@gmail.com
+
+
+Looking forward to connecting and exchanging ideas!
+
+# ✨ Support this project!
+If you found this project helpful or interesting, please consider giving it a ⭐ on GitHub!
+Your support helps keep the project active and encourages further development.
+
+Thank you for your support! 💖
+
 ## Contact:
 
 For any inquiries or suggestions, feel free to reach out:
